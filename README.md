@@ -1,3 +1,7 @@
+# React 연습 코드
+
+지우고 새로 쓰는 코드
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
